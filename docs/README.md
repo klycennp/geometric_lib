@@ -110,7 +110,11 @@ perimeter(7, 6, 5) # this will return 18
 
 Latest to oldest:
 
+
 "***fixed a typo in rectangle perimetr functio***" - klycennp 20.09.2024 (80c6571)
+
 "***fixed a mistake in rectangle perimeter function***" - klycennp 20.09.2024 (211a637)
+
 "***added triangle math functions***" - klycennp 20.09.2024 (8eee737)
+
 "***added rectangle math functions***" -klycennp 20.09.2024 (44ce672)
